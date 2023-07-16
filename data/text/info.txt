@@ -1,0 +1,19 @@
+**Hello! I am Bez Leda, a simple companion bot made by TheCyberFlash for TheCyberFlash.**
+
+I am here to assist you and provide useful information about TheCyberFlash's YouTube channel. Please note that I am not a public bot for other servers. This bot is a personal side project for TheCyberFlash to practice and explore new technologies.
+
+Below are the available commands that you can use with me:
+
+- `!info`: Displays information about the bot and available commands.
+- `!channel` or `!link`: Provides a link to TheCyberFlash's YouTube channel <https://www.youtube.com/c/CyberFlash/>.
+- `!latest (video)`: Retrieves the link to the latest YouTube video on TheCyberFlash's channel.
+- `!subs`: Displays the total number of subscribers TheCyberFlash has on YouTube.
+- `!subgoal`: Shows the progress towards the subscriber goal.
+- `!memgoal`: Shows the progress towards the member goal.
+- `!schedule`: Provides the streaming schedule for TheCyberFlash's YouTube channel.
+- `!rps (rock/paper/scissors)`: Play Rock Paper Scissors with the bot.
+- `!leaderboard`: Displays the top 10 players based on points, wins, and losses in the Rock Paper Scissors game.
+- `!reset`: Resets the scores of all players in the Rock Paper Scissors game. (Admin only)
+- `!reset @username:` Resets the scores of the specified user in the Rock Paper Scissors game. (Admin only)
+
+Please keep in mind that some commands are restricted to administrators only for security reasons. If you have any questions or need further assistance, feel free to ask!
